@@ -1,17 +1,23 @@
-# offby1n
+# Dimitris Papastamatis
 
-Named after the most common bug in programming.
+Python, Linux and networking. Working toward AI infrastructure / platform engineering: taking servers, GPUs and networks and turning them into reliable systems.
 
-I'm into Python, networking, Linux, and general IT — the kind of person who builds the tool instead of looking for one.
+## What's in these repos
 
-## What I do
+Command-line tools for networking, monitoring and security work, written in Python. Standard library by default — a third-party package only when learning that package is the point. Finished tools ship with an installer script and versioned releases, and every repo's README covers what it does and how to run it.
 
-- **Write tools in Python** — command-line utilities for networking and system tasks.
-- **Run a homelab** — a Dell R630 on Proxmox and a firewall that's locked me out more times than I'll admit.
-- **Learn by building** — I'd rather understand how something works by making it than reading about it.
+## How I work
 
-## The stack
+- I learn by building tools I actually use, then running them for real.
+- One new concept per project, layered on the ones before it, so the fundamentals become automatic.
+- Code is hand-written unless a repo's README says otherwise.
 
-- **Languages:** Python
-- **Systems:** Linux, Proxmox, OPNsense
-- **Focus:** networking, Linux, and general IT
+## What I run
+
+- A Dell R630 on Proxmox behind an OPNsense firewall — my homelab for Linux, virtualisation and networking.
+- Arch Linux as a daily driver.
+
+## Credentials
+
+- PCEP — Certified Entry-Level Python Programmer, Python Institute (2026)
+- Cambridge English C1
