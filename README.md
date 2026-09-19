@@ -1,6 +1,6 @@
 # Dimitris Papastamatis
 
-Python, Linux and networking. Working toward AI infrastructure / platform engineering: taking servers, GPUs and networks and turning them into reliable systems.
+Python, Linux and networking. Working toward AI infrastructure / platform engineering: taking servers and networks and turning them into reliable systems that other software depends on.
 
 ## What's in these repos
 
